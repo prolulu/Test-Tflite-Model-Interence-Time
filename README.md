@@ -20,7 +20,7 @@ print(str(input_details))
 output_details = interpreter.get_output_details()
 print(str(output_details))
 ```
-analyze_tfmodel.py文件位于根目录下
+此analyze_tfmodel.py文件位于根目录下
 <br>
 <br>
 
