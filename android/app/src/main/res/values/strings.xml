@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">Test Tflite Model Inference Time</string>
+	<string name="button">Start Test</string>
+</resources>
