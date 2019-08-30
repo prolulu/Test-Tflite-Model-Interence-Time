@@ -42,7 +42,7 @@ print(str(output_details))
 ### 3.在drawable/文件夹中添加测试图片
 ![](https://github.com/prolulu/Test-Tflite-Model-Interence-Time/blob/master/docs/picture.png)<br>
 若不考虑图片读取时间，而仅仅考虑model运行速度，此步骤可以省略。<br>
-添加完测试图片后，在MainActivity Run()方法下<br>
+添加完测试图片后，在MainActivity Run()方法下更改测试图片<br>
 ```java
 Bitmap bitmap = BitmapFactory.decodeResource(this.getApplicationContext().getResources(), R.drawable.test);//更改测试图片
 ```
