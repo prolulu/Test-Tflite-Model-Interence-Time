@@ -59,4 +59,7 @@ Bitmap bitmap = BitmapFactory.decodeResource(this.getApplicationContext().getRes
 
 ## 注
 该项目为本人暑期实习项目，来源于开源，回馈给开源。<br>
+This project is my summer internship project, which is derived from open source and gives back to community.<br>
 若有任何对于本项目的疑问和建议欢迎联系lulutyh@163.com
+If you have any questions or suggestions about this project, please contact lulutyh@163.com <br>
+
